@@ -172,7 +172,7 @@ const App = () => {
       <div className="todo-container">
         <header className="todo-header">
           <div className="header-content">
-            <h1>🌟 Vibrant</h1>
+            <h1>Vibrant</h1>
             <div className="user-info">
               <span>Welcome, {currentUser}!</span>
               <button onClick={handleLogout} className="logout-btn">
